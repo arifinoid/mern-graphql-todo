@@ -1,0 +1,21 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "todo backend",
+  "main": "index.js",
+  "author": "Rohmad Arifin",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index"
+  },
+  "dependencies": {
+    "cors": "2.8.5",
+    "express": "4.17.1",
+    "global": "4.4.0",
+    "graphql-yoga": "1.18.0",
+    "mongoose": "5.6.0",
+    "nodemon": "1.19.1",
+    "yarn": "1.16.0"
+  }
+}
