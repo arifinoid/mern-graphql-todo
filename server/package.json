@@ -16,6 +16,6 @@
     "graphql-yoga": "1.18.0",
     "mongoose": "5.7.5",
     "nodemon": "1.19.1",
-    "yarn": "1.17.3"
+    "yarn": "1.22.0"
   }
 }
